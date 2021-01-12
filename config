@@ -1,0 +1,4 @@
+Host streamline
+	HostName 13.59.174.64
+	User ec2-user
+	IdentityFile /Users/apple/streamlit/key.pem

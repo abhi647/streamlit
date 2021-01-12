@@ -1,0 +1,4 @@
+Host streamlit
+    HostName 54.201.134.118
+    User ec2-user
+    IdentityFile /Users/apple/streamlit/streamlit_key.pem
